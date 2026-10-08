@@ -1,20 +1,27 @@
 # Lista de tareas con Vue.js
 
-Aplicación web desarrollada con Vue.js que permite organizar tareas personales.
+Aplicación web desarrollada con Vue.js para gestionar tareas personales de forma sencilla y visual.
 
 ## Propósito
 
-El proyecto demuestra conceptos fundamentales de Vue.js: componentes, reactividad, eventos, estado, propiedades y comunicación entre componentes.
+Este proyecto demuestra conceptos fundamentales de Vue.js, como:
+
+- componentes
+- reactividad
+- eventos
+- estado de la aplicación
+- comunicación entre componentes
+- diseño responsivo
 
 ## Funcionalidades
 
-- Agregar tareas.
-- Marcar tareas como completadas.
-- Eliminar tareas.
-- Ver el número de tareas completadas.
-- Diseño adaptable para pantallas pequeñas.
+- Agregar nuevas tareas
+- Marcar tareas como completadas
+- Eliminar tareas
+- Mostrar el número de tareas realizadas
+- Diseño adaptable para móviles y pantallas pequeñas
 
-## Tecnologías
+## Tecnologías utilizadas
 
 - Vue.js 3
 - Vite
@@ -24,16 +31,24 @@ El proyecto demuestra conceptos fundamentales de Vue.js: componentes, reactivida
 
 ---
 
-## 1. Versión en Línea (Producción)
+## 1. Versión en línea
 
-Para ver la aplicación terminada y funcionando en internet sin necesidad de instalar nada, entra al siguiente enlace:
+Puedes probar la aplicación directamente en producción aquí:
+
 👉 **https://lista-tareas-vue.vercel.app/**
 
 ---
 
-## 2. Versión Local (Desarrollo)
+## 2. Ejecutarlo localmente
 
-Si deseas descargar y probar el proyecto en tu propia computadora, el servidor se ejecutará en **http://localhost:5173/**. Sigue estos pasos:
+Si deseas probar el proyecto en tu computadora, sigue estos pasos:
+
+### Requisitos
+
+- Node.js 18 o superior
+- npm
+
+### Instalación
 
 1. Clona el repositorio:
 
