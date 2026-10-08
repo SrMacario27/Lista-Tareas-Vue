@@ -22,7 +22,18 @@ El proyecto demuestra conceptos fundamentales de Vue.js: componentes, reactivida
 - HTML
 - CSS
 
-## Ejecutar el proyecto localmente
+---
+
+## 1. Versión en Línea (Producción)
+
+Para ver la aplicación terminada y funcionando en internet sin necesidad de instalar nada, entra al siguiente enlace:
+👉 **https://lista-tareas-vue.vercel.app/**
+
+---
+
+## 2. Versión Local (Desarrollo)
+
+Si deseas descargar y probar el proyecto en tu propia computadora, el servidor se ejecutará en **http://localhost:5173/**. Sigue estos pasos:
 
 1. Clona el repositorio:
 
