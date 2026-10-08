@@ -24,8 +24,8 @@ El proyecto demuestra conceptos fundamentales de Vue.js: componentes, reactivida
 
 ## Ejecutar el proyecto localmente
 
-Clona el repositorio:
+1. Clona el repositorio:
 
 ```bash
-git clone URL_DE_TU_REPOSITORIO
+git clone [https://github.com/SrMacario27/Lista-Tareas-Vue.git](https://github.com/SrMacario27/Lista-Tareas-Vue.git)
 ```
